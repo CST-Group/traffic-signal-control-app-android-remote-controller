@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="traci4android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/traci4android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
