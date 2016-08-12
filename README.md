@@ -1,8 +1,15 @@
 # traffic-signal-control-app-android-remote-controller
+
 A SUMO traffic signal remote controller implemented as an Android App! Uhuu! (TraCI4J adapted, transformed into some sort of TraCI4Android and included and a .jar in libs folder)
 
-License
---------
+## What is the point?
+
+The objective here is to exemplify in a fun way how to interact with the SUMO simulation through TraCI, specifically changing the phase of one junction of traffic lights.
+
+## How does it works?
+
+
+## License
 
     Copyright 2016 CST-Group
 
