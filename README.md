@@ -39,6 +39,8 @@ Steps:
  
  4 - Once the simulation starts, you will see that your Unjammer app has all the possible phases of each junction for you to choose. Just click any phase and you will see it instantly change in the simulation! Magic!
  
+ ![Remote Controllers rocks!](screenshot.jpg)
+ 
  Obs: depending on the size of the network, and consequent number of junctions, it may not be easy to recognize which junctions is controlled in each line of the Unjammer app gridview. We tried to make it easier by writing the id of the junction in the left side of the grid row, so you can check in SUMO GUI where each of these junction is located by using the '?' tool.
 
 In the end of the simulation, an output file, containing the summary of the main measurements taken in the simulation, such as cars mean waiting time, will be written to a file called output_sumo.'model'.xml. This way, you can challenge anyone to control the traffic lights and score a better waiting time than you, just like in a game.
